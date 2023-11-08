@@ -53,6 +53,7 @@ tr, th {
     font-size: .9rem;
     padding: 6px;
     transform: translate(17%, 3%);
+    border-radius: 6px;
     
 }
 
@@ -60,6 +61,7 @@ tr, th {
     color: #ffa601;
     background-color: white;
     font-weight: bold;
+    border: 1px solid #ffa601 ;
 }
 
 header, footer {
